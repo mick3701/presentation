@@ -1,19 +1,20 @@
 body{
-	background-image: url("https://image.noelshack.com/fichiers/2019/09/1/1551057306-galaxy-11098.jpg");
+	background-image: url("https://image.noelshack.com/fichiers/2019/09/1/1551125831-sky-night-atmosphere-environment-space-outer-space-119192-pxhere-com.jpg");
 	background-attachment: fixed;
 	background-color: #FFD0BD;
+	font-family: calibri;
 }
 
 
 h1{
-	color: #FF140C;
+	color: #f1f2f6;
 	text-align: center;
 	font-size: 60px;
 	background-color: black;
 }
 
 h2{
-	color: #B9121B;
+	color: #f1f2f6;
 	margin-left: 80px;
 	font-size: 35px;
 }
@@ -39,11 +40,11 @@ nav > ul > li > a{
 
 
 a:visited{
-	color: #8FA3AD;
+	color: #2682C4;
 }
 
 #text1{
-	color: #FCDE8E;
+	color: #F9A41E;
 	height: 200px;
 	width: 400px;
 	border-radius: 15px;
@@ -53,7 +54,7 @@ a:visited{
 }
 
 #text2{
-	color: #FCDE8E;
+	color: #F9A41E;
 	height: 250px;
 	width: 450px;
 	border-radius: 18px;
@@ -72,12 +73,12 @@ h4{
 #passion{
 	text-align: right;
 	padding-right: 50px;
-	color: #FCDE8E;
+	color: #F9A41E;
 	font-size: 18px;
 }
 
 #text3{
-	color: #FCDE8E;
+	color: #F9A41E;
 	font-size: 18px;
 	padding-left: 5px;
 	height: 250px;
@@ -88,7 +89,7 @@ h4{
 
 td, th{
 	border: 2px solid #EFF0FF;
-	color: #FCDE8E;
+	color: #F9A41E;
 	font-size: 18px;
 }
 
@@ -98,7 +99,7 @@ table{
 
 #text4{
 	padding-right: 2px;
-	color: #FCDE8E;
+	color: #F9A41E;
 	font-size: 18px;
 	text-align: right;
 	margin-right: 40px;
@@ -107,7 +108,7 @@ table{
 }
 
 .title{
-	color: #FCDE8E;
+	color: #F9A41E;
 	font-size: 18px;
 	margin-left: 10px;
 }
@@ -118,7 +119,7 @@ form{
 }
 
 label{
-	color: #C2CE58;
+	color: #F9A41E;
 }
 
 input{
@@ -157,12 +158,13 @@ h3{
 }
 
 li{
-	color: #FCDE8E;
+	color: #F9A41E;
 	margin-left: 20px;
 	font-size: 18px;
 }
 
 li > a{
 	font-size: 18px;
-	color: #FE9C03;
+	color: #FFF5EE;
 }
+
