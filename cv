@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html>
 	<head>
-	<meta charset="utf-8">
-	<title>CEFIM</title>
-	<link href="style.css" rel="stylesheet" type="text/css" />
+		<meta charset="utf-8">
+		<title>CEFIM</title>
+		<link href="css/style.css" rel="stylesheet" type="text/css" />
 	</head>
 <body>
 	<header>
 		<br>
-		<h1>Qui Suis-je ?</h1>
+		<h1>DOMINGUEZ Mickael</h1>
 		<br>
 			<h2 id="Acceuil">Acceuil</h2>
 		<br>	
@@ -32,24 +32,20 @@
 	<br>	
 		<h2 id="Presentation">Presentation</h2>
 		<div id="text1">
-			<p><b>Mickael DOMINGUEZ</b> née à  TOURS le 11 décembre 1991.
-				Je suis de nature a persisté, curieux, et j'adore apprendre dans les domaines qui me passione (changement climatique, finance, l'Histoire et l'informatique).<br>
-				<br>
+			<p><b> Mickael DOMINGUEZ</b> née à  TOURS Nord le 11 décembre 1991. Je suis de nature a persisté, curieux, et j'adore apprendre dans les domaines qui me passionne (changement climatique, finance, l'Histoire et l'informatique).</p><br>
+	
 		</div>
 		<div id="text2">
-			Trés jeune j'ai étais attirée par les valeurs que dégage l'armée (cohesion, surpassement de soi et l'aventure). deja vers l'age de 10ans j'attendais ma mojarité pour m'engagée au sein de l'armée de terre mais sans réel idée de quoi faire aux fur et a mesure des années les contours de mon projet de m'engagée etais de plus en plus visible. Mes deux maximes preferée serais "Toujours pret toujours volontaire" et la deuxieme "Le diable se cache dans les details". Je precise que je n'est aucune experience professionnel dans le "codage" juste des notions appris en autodidacte.</p>
+			<p>Très jeune j'ai été attirée par les valeurs que dégage l'armée (cohésion, surpassement de soi et l'aventure). Déjà vers l'age de 10ans j'attendais ma majorité pour m'engager au sein de l'armée de terre mais sans réel idée de quoi faire aux fur et a mesure des années, les contours de mon projet de m'engager étais de plus en plus visible. Mes deux maximes préférée serais "Toujours prêt toujours volontaire" et la deuxième "Le diable se cache dans les détails". Je précise que je n'est aucune expérience professionnel dans le "codage" juste des notions appris en autodidacte.</p>
 		</div>
 		<h4>Mes passions</h4>
-			<div id="passion">
-				<p id="passion">L'informatique<br> jeux, documentaire, divers apprentisage</p>
-				<p id="passion">Le karting <br> les voitures, la vitesse</p>
-				<p id="passion">La nature <br> randonnée, escalade, via ferrata</p>
-				<p id="passion">Le tir</p>
-			</div>
+	<br>	
 
-
-
-
+					<p id="passion">L'informatique <br> jeux, documentaire, divers apprentissage</p>
+					<p id="passion">Le karting <br> les voitures, la vitesse </p>
+					<p id="passion">La nature randonnée, <br> escalade, via ferrata</p>
+					<p id="passion">Le tir</p>	
+	<br>
 	</section>
 	<br>
 
@@ -58,8 +54,8 @@
 		<h2 id="Cursus Scolaire">Cursus Scolaire</h2>
 	<br>
 			<div>
-				<p id="text3"> j'ai suivie un parcours des plus classique jusqu'en quatrieme, puis a la fin de ma 4eme j'ai étais dans un lycée professionnel pour effectué ma 3eme au lycée professionnel de Henry BECQUEREL à st pierre des corps dans le domaine de l'electrotechnique.<br>
-				A l'issue de cette 3eme	je suis rentrée en BEP ROCSM (Realisation d'Ouvrage Chaudronnés et de Structure Metallique) au lycée professionnel de GUSTAVE EIFFEL je n'est l'ai pas obtenue dans l'attente des quelques mois avant mes 18ans j'ai commencer une 3eme années de BEP que je n'est pas fini pour cause d'incorporation a l'armée.	
+				<p id="text3"> j'ai suivie un parcours des plus classique jusqu'en quatrième, j'ai étais dans un lycée professionnel pour effectué ma 3eme au lycée professionnel de Henry BECQUEREL à St Pierre des Corps dans le domaine de l’électrotechnique.<br>
+				A l'issue de cette 3eme je suis rentrée en BEP ROCSM (Réalisation d'Ouvrage Chaudronnés et de Structure Métallique) au lycée professionnel de GUSTAVE EIFFEL je n'est l'ai pas obtenue. Dans l'attente des quelques mois avant mes 18ans j'ai commencer une 3eme années de BEP que je n'est pas fini pour cause d'incorporation a l'armée.	
 			</div>
 	</section>
 	<br>
@@ -81,7 +77,7 @@
 				<tbody>
 					<tr>
 						<th><b>Activité 1</b></th>
-						<td>CHASSEUR ALPIN <br> specalité tireur amx 10RC <br>au 4eme regiment de chasseur GAP</td>
+						<td>CHASSEUR ALPIN <br> spécialité tireur amx 10RC <br>au 4eme régiment de chasseur GAP</td>
 						<td></td>
 						<td></td>
 						<td></td>
@@ -99,7 +95,7 @@
 						<th><b>Activité 3</b></th>
 						<td></td>
 						<td></td>
-						<td>different travail en interim <br> operateur en blanchisserie <br> chaudronnier</td>
+						<td>différent travail en interim <br> opérateur en blanchisserie <br> chaudronnier</td>
 						<td></td>
 					</tr>
 
@@ -119,10 +115,8 @@
 		<br>
 			<h2 id="Objectif et Conclusion">Objectif et Conclusion</h2>
 				<div>
-					<p id="text4">Vous devais commencé a avoir un aperçu sur mon parcours et ma personnalité j'ai quitté un CDI qui étais tres bien rénumérée et conscient que je suis sans diplome et de retrouvée un travail avec le meme salaire serrais impossible,
-					<br>
-					je me suis rendu compte que le milieu "ouvrier" n'étais pas fait pour moi (condition de travail, mentalité et aucune passion pour sa) C'est l'armée qui ma forgée et je ne retrouvais rien de se milieu. 
-					Aujourd'hui je souhaite pouvoir me formé au metier de developpeur qui pour moi demande de la détermination de la cohesion au sein d'une équipe mais surtout c'est un métier qui laisse cour a la créativité avec un haut taux de retour a l'emplois et autant de chemins possible (jeux video, transports, commerce, applications mobile, logiciels, et bien d'autres.)<br> Le gout du code mais venue en essayant pour postulé a une formation "developpeur web mobile" pour la wild code school ou j'ai étais accepter mais je n'est pu trouver de financeur. c'est pourquoi je suit le parcours de candidature pour votre formation devellopeur web mobile au CEFIM de TOURS. </p>
+					<p id="text4">Vous devais commencé a avoir un aperçu sur mon parcours et ma personnalité j'ai quitté un CDI qui étais très bien rémunérée et conscient que je suis sans diplôme et de retrouvée un travail avec le même salaire serais impossible, un jour je me suis rendu compte que le milieu "ouvrier" n'étais pas fait pour moi (condition de travail, mentalité et aucune passion pour ça). C'est l'armée qui ma forgée et je ne retrouvais rien de se milieu. <br> Aujourd'hui je souhaite pouvoir me formé au métier de développeur qui pour moi demande de la détermination de la cohésion au sein d'une équipe mais surtout c'est un métier qui laisse cour a la créativité avec un haut taux de retour a l’emploie et autant de chemins possible (jeux vidéos, transports, commerces, applications mobile, logiciels, et bien d'autres.)
+					Le goût du code mais venue en essayant de postulé a une formation "Développeur Web Mobile" pour la Wild Code School ou j'ai étais accepter mais je n'est pas pu trouver de financement. C'est pourquoi je suit le parcours de candidature pour votre formation développeur web mobile au CEFIM de TOURS.</p>
 				</div>
 		</section>
 		<br>
@@ -192,4 +186,5 @@
 	</footer>
 </body>
 </html>
+
 
